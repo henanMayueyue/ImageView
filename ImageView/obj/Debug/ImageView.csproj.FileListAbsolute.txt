@@ -1,0 +1,9 @@
+D:\Visual Studio 2019\Projects\ImageView\ImageView\bin\Debug\ImageView.exe.config
+D:\Visual Studio 2019\Projects\ImageView\ImageView\bin\Debug\ImageView.exe
+D:\Visual Studio 2019\Projects\ImageView\ImageView\bin\Debug\ImageView.pdb
+D:\Visual Studio 2019\Projects\ImageView\ImageView\obj\Debug\ImageView.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Projects\ImageView\ImageView\obj\Debug\ImageView.Form1.resources
+D:\Visual Studio 2019\Projects\ImageView\ImageView\obj\Debug\ImageView.Properties.Resources.resources
+D:\Visual Studio 2019\Projects\ImageView\ImageView\obj\Debug\ImageView.csproj.GenerateResource.cache
+D:\Visual Studio 2019\Projects\ImageView\ImageView\obj\Debug\ImageView.exe
+D:\Visual Studio 2019\Projects\ImageView\ImageView\obj\Debug\ImageView.pdb
